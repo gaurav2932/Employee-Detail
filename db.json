@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "rani",
+      "lastName": "gupta",
+      "email": "rani@gmail.com",
+      "mobile": "9903303033",
+      "salary": "10000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Gaurav Gupta",
+      "email": "guptaguitar2020@gmail.com",
+      "password": "gaurav",
+      "mobile": 7678451481,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,24 @@
+.card{
+        border: none;
+        width: 500px;
+        padding: 40px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: rgb(85, 186, 245);
+        background: linear-gradient(90deg, rgb(27, 103, 146) 0%, rgb(107, 191, 240) 100%);
+}
+
+h1, a, h5, label{
+        color: white;
+}
+a{
+        margin-top: 7px;
+}
+a:hover{
+        color: rgb(182, 225, 236);
+}
+.btn:disabled{
+        cursor: pointer;
+}
